@@ -1,2 +1,1 @@
-# DelvinEECS1720
-For EECS1720 use.
+
