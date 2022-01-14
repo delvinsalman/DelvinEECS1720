@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(20);
+  background(40);
 }
 var w;
 
