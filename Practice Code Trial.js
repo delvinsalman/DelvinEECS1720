@@ -12,7 +12,6 @@ function draw() {
   pop();
   fill(255,255,255);
 
-  
 }
 
 function star(x, y, radius1, radius2, npoints) {
