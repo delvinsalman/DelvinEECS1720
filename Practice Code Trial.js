@@ -1,6 +1,6 @@
 //Moving wheel trial code, adding on daily to see how it can expand!
 function setup() {
-  createCanvas(720, 400);
+  createCanvas(730, 410);
 }
 
 function draw() {
