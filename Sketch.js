@@ -8,7 +8,7 @@ function draw() {
 var w;
 
 function setup() {
-  createCanvas(650, 370);
+  createCanvas(650, 380);
   // Make a Walker object
   w = new Walker();
 }
