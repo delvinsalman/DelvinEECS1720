@@ -8,7 +8,7 @@ function draw() {
   push();
   translate(width * 0.5, height * 0.5);
   rotate(frameCount / 50.0);
-  star(0, 10, 80, 150, 55);
+  star(0, 20, 80, 150, 55);
   pop();
   fill(255,255,255);
 
