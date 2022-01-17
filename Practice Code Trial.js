@@ -1,6 +1,6 @@
 //Moving wheel trial code, adding on daily to see how it can expand! (added new)
-
 //I will be adding something everyday to make something in the end, so one day can be it moving and the next can be the colors, etc. 
+
 
 function setup() {
   createCanvas(730, 410);
