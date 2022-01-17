@@ -28,6 +28,7 @@ function star(x, y, radius1, radius2, npoints) {
     sx = x + cos(a + halfAngle) * radius1;
     sy = y + sin(a + halfAngle) * radius1;
     vertex(sx, sy);
+    fill(255,255,255);
     
   }
   endShape(CLOSE);
