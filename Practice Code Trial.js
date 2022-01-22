@@ -1,6 +1,7 @@
 //Moving wheel trial code, adding on daily to see how it can expand! (added new)
 //I will be adding something everyday to make something in the end, so one day can be it moving and the next can be the colors, etc. 
 //ADDED coloring, making it move quicker (speed), and making it style diferent from how a orignal star would look.
+//Update, the code keeps crashing. :)))))
 
 function setup() {
 createCanvas(730, 410);
