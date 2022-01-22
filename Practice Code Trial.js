@@ -2,6 +2,7 @@
 //I will be adding something everyday to make something in the end, so one day can be it moving and the next can be the colors, etc. 
 //ADDED coloring, making it move quicker (speed), and making it style diferent from how a orignal star would look.
 //Update, the code keeps crashing. :)))))
+//Trying more on P5.js
 
 function setup() {
 createCanvas(730, 410);
