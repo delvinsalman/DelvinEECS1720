@@ -11,7 +11,10 @@ this assignment is to create something you like in the form of coding it, so suc
 it as a fun little extension to make that is also cool and usefull!
 
 
-"*://*.facebook.com/*",
+These are the list of websites i used to be blocked when trying to use them, when having the extension active.
+
+
+        "*://*.facebook.com/*",
 
 	"*://.sketch.io.com//*",
 
@@ -23,4 +26,4 @@ it as a fun little extension to make that is also cool and usefull!
 
 	"*://*.twitter.com/*",
 
-These are the list of websites i used to be blocked when trying to use them, when having the extension active.
+
