@@ -3,6 +3,7 @@
 //ADDED coloring, making it move quicker (speed), and making it style diferent from how a orignal star would look.
 //Update, the code keeps crashing. :)))))
 //Trying more on P5.js
+//Also trying more new things.
 
 function setup() {
 createCanvas(730, 410);
