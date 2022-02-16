@@ -7,6 +7,7 @@
 //Trying to add tokens.
 //Backup code for the P5.js libary.
 
+
 function setup() {
 createCanvas(730, 410);
 }
@@ -20,6 +21,7 @@ function draw() {
   star(20, 210, 10, 150, 55);
   pop();
   fill(255,255,255);
+  Smooth();
 
 }
 
