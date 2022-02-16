@@ -7,7 +7,6 @@
 //Trying to add tokens.
 //Backup code for the P5.js libary.
 
-
 function setup() {
 createCanvas(730, 410);
 }
