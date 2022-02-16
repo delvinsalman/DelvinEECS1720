@@ -35,6 +35,7 @@ function star(x, y, radius1, radius2, npoints) {
     sy = y + sin(a + halfAngle) * radius1;
     vertex(sx, sy);
     fill(255,255,255);
+    fill(255,255);
     
   }
   endShape(CLOSE);
