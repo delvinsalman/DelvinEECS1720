@@ -6,6 +6,7 @@
 //Also trying more new things.
 //Trying to add tokens.
 //Backup code for the P5.js libary.
+//Rings of color.
 
 function setup() {
 createCanvas(730, 410);
