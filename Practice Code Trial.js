@@ -7,6 +7,7 @@
 //Trying to add tokens.
 //Backup code for the P5.js libary.
 //Rings of color.
+//Intro to py/tokens.
 
 function setup() {
 createCanvas(730, 410);
