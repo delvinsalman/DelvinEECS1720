@@ -8,6 +8,7 @@
 //Backup code for the P5.js libary.
 //Rings of color.
 //Intro to py/tokens.
+//Py on ps.
 
 function setup() {
 createCanvas(730, 410);
