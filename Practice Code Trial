@@ -15,6 +15,7 @@
 //Trying out the api tokens on discord.
 //Working.
 
+
 function setup() {
 createCanvas(730, 410);
 }
