@@ -15,7 +15,7 @@
 //Trying out the api tokens on discord.
 //Working.
 //Api calls.
-
+//Discord bot is working!.
 
 function setup() {
 createCanvas(730, 410);
