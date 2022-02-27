@@ -16,6 +16,7 @@
 //Working.
 //Api calls.
 //Discord bot is working!.
+//env file working.
 
 
 function setup() {
