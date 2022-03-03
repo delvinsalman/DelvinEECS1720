@@ -18,6 +18,7 @@
 //Discord bot is working!.
 //env file working.
 //Bot done.
+//Making github pages.
 
 function setup() {
 createCanvas(730, 410);
