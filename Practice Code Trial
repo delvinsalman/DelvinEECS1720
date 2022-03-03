@@ -17,7 +17,7 @@
 //Api calls.
 //Discord bot is working!.
 //env file working.
-
+//Bot done.
 
 function setup() {
 createCanvas(730, 410);
