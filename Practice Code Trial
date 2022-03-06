@@ -22,7 +22,7 @@
 //Phase 2
 //QR CODE code.
 //Prac. code.
-
+//Phase 2 still.
 
 function setup() {
 createCanvas(730, 410);
