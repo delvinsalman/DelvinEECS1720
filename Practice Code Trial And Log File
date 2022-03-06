@@ -63,3 +63,4 @@ function star(x, y, radius1, radius2, npoints) {
 }
 
 
+// This code was to pra in p5.js
