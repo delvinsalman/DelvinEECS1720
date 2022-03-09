@@ -24,7 +24,7 @@
 //Prac. code.
 //Phase 2 still.
 //QR SEARCH.
-
+//Lab 3 INTRO
 
 function setup() {
 createCanvas(730, 410);
