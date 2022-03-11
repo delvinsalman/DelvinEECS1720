@@ -26,7 +26,7 @@
 //QR SEARCH.
 //Lab 3 INTRO
 //Camera code.
-
+//QR.
 
 function setup() {
 createCanvas(730, 410);
