@@ -2,6 +2,8 @@
           
 
 ## 100 Days Of Code!
+
+This is a check list for the 100 days of code commits and daily contribution.
 <br>
 
 January 13 - ✔  ︱February 1 - ✔  ︱February 20 - ✔ ︱March 11 - ❌
