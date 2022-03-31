@@ -6,9 +6,9 @@
 This is a check list for the 100 days of code commits and daily contribution.
 <br>
 
-January 13 - ✔  ︱February 1 - ✔  ︱February 20 - ✔ ︱March 11 - ❌
-
-January 14 - ✔  ︱February 2 - ❌ ︱February 21 - ✔ ︱March 12 - ✔
+January 13 - ✔  ︱February 1 - ✔  ︱February 20 - ✔ ︱March 11 - ❌ ︱March 30 - ✔
+ 
+January 14 - ✔  ︱February 2 - ❌ ︱February 21 - ✔ ︱March 12 - ✔  ︱March 31 - ✔
 
 January 15 - ✔  ︱February 3 - ✔  ︱February 22 - ✔ ︱March 13 - ✔
 
