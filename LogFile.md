@@ -12,7 +12,7 @@ January 14 - ✔  ︱February 2 - ❌ ︱February 21 - ✔ ︱March 12 - ✔  �
 
 January 15 - ✔  ︱February 3 - ✔  ︱February 22 - ✔ ︱March 13 - ✔  ︱April 1 - ✔
 
-January 16 - ✔  ︱February 4 - ✔  ︱February 23 - ✔ ︱March 14 - ✔
+January 16 - ✔  ︱February 4 - ✔  ︱February 23 - ✔ ︱March 14 - ✔ 
 
 January 17 - ✔  ︱February 5 - ✔  ︱February 24 - ✔ ︱March 15 - ✔
 
