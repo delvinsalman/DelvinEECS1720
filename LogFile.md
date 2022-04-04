@@ -12,9 +12,9 @@ January 14 - ✔  ︱February 2 - ❌ ︱February 21 - ✔ ︱March 12 - ✔  �
 
 January 15 - ✔  ︱February 3 - ✔  ︱February 22 - ✔ ︱March 13 - ✔  ︱April 1 - ✔
 
-January 16 - ✔  ︱February 4 - ✔  ︱February 23 - ✔ ︱March 14 - ✔ 
+January 16 - ✔  ︱February 4 - ✔  ︱February 23 - ✔ ︱March 14 - ✔  ︱April 2 - ✔ 
 
-January 17 - ✔  ︱February 5 - ✔  ︱February 24 - ✔ ︱March 15 - ✔
+January 17 - ✔  ︱February 5 - ✔  ︱February 24 - ✔ ︱March 15 - ✔  ︱April 3 - ✔
 
 January 18 - ✔  ︱February 6 - ✔  ︱February 25 - ✔ ︱March 16 - ✔
  
@@ -43,7 +43,6 @@ January 29 - ✔  ︱February 17 - ✔ ︱March 8 - ✔ ︱March 27 - ✔
 January 30 - ✔  ︱February 18 - ✔ ︱March 9 - ✔ ︱March 28 - ✔
 
 January 31 - ✔  ︱February 19 - ✔ ︱March 10 - ✔ ︱March 29 - ✔
-
 
 
 <br>
