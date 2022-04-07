@@ -20,7 +20,7 @@ January 18 - ✔  ︱February 6 - ✔  ︱February 25 - ✔ ︱March 16 - ✔  �
  
 January 19 - ✔  ︱February 7 - ✔  ︱February 26 - ✔ ︱March 17 - ✔  ︱April 5 - ✔
 
-January 20 - ✔  ︱February 8 - ✔  ︱February 27 - ✔ ︱March 18 - ✔
+January 20 - ✔  ︱February 8 - ✔  ︱February 27 - ✔ ︱March 18 - ✔  ︱April 6 - ✔
 
 January 21 - ✔  ︱February 9 - ✔  ︱February 28 - ✔ ︱March 19 - ✔
 
