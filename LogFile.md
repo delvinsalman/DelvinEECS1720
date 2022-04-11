@@ -28,7 +28,7 @@ January 22 - ✔  ︱February 10 - ✔ ︱March 1 - ✔ ︱March 20 - ✔      �
 
 January 23 - ✔  ︱February 11 - ✔ ︱March 2 - ✔ ︱March 21 - ✔      ︱April 9 - ❌
 
-January 24 - ✔  ︱February 12 - ✔ ︱March 3 - ✔ ︱March 22 - ❌
+January 24 - ✔  ︱February 12 - ✔ ︱March 3 - ✔ ︱March 22 - ❌     ︱April 10 - ✔
 
 January 25 - ✔  ︱February 13 - ✔ ︱March 4 - ✔ ︱March 23 - ✔
 
