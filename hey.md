@@ -37,14 +37,21 @@
 
 ## Week 05
 
+(1. `(Python OOP)` Write a python class for a classy robot that has the following: a name, an age, and can start and stop dancing when you clap. You can do it in under 10 lines (it can be pseudo-code like).) `Answer:` Lets start, Void Setup();, size: 650, 650, name= Delvin, age= 100, Void Draw, "Make a class for dancing and claping", for every clap, dance stops, for every time dance, dance is danceing, program end when person claps, END. 
+
+(2. `(APIs)` What API did you connect with in Lab 2? Briefly explain how you integrated interactivity within your code.) `Answer:` In my lab 2 I made a discord bot using the discord token api to connect it to my code using python to make the bot work. The token worked as my special function to call the bot, and make the bot work like using commands in discord to prove that such as !help. I have intergrated interactivity was by using the api to call the bot and using the code in python and make them go hand in hand in coding a discord bot from the start, also know as hard coding since you can download any discord bot you really want. 
 
 
+## Week 06
+
+(1. `(Server-Client)` Give me an example of an interaction done client-side and an interaction done server-side.) `Answer:` Well we can say for the AR when using a marker to bring out a image or model. Say on the client side a person is using there phone to maybe scan a qr code. In terms of client, the software that can run on a user's web browsers, such as the project we did for phase 2. The server side is more like the heroku part or github pages, and is to use to host out server on the web in a free basic way. 
+
+2. `(Local Hosting)` What is the difference between dragging an index.html file into your browser and opening an index.html file using localhost? Do you remember the number equivalent to localhost? `Answer:` In terms of the number equivalent it would be what we used like 127.0. 0.1, and 8000. When draging a file on index.html the file can just open on any web browser and show content you may have. When using local host you would have to run what ever it is your doing in the terminal panel to make that server start to run and be hosted via the server. Cause the other way of the html page is not hosted on a server and anyone can open it. 
 
 
+## Week 07
 
-
-
-
+(1. `(GitHub Pages)` What is a deployment in this context? What is a branch and why are they used for contributing to repos?) `Answer:`
 
 
 
