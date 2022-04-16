@@ -51,11 +51,19 @@
 
 ## Week 07
 
-(1. `(GitHub Pages)` What is a deployment in this context? What is a branch and why are they used for contributing to repos?) `Answer:`
+(1. `(GitHub Pages)` What is a deployment in this context? What is a branch and why are they used for contributing to repos?) `Answer:` The deployment of this can be involved in getting new software or hardware up and running properly in its environment. In terms of branches I like to think of it as a way to organize files and make certain, and also think of it as a designated area for doing works for a say a file or code. Such as git-pages...
+
+(2. `(Augmented Reality)` What makes AR possible? What is needed in a code context?) `Answer:` Somethings that make AR possible can be, models, code, structure, physical world, idea of physics, and other concepts to make ar happen, such as maybe making a model pop out. Somethings needed to do ar can be, models, ar code, server hosting if wished, code, it can be python, js, html, css. All these thing can come into play when doing something in respects to AR, they may be more but this is all I have understood when doing these type of things. 
 
 
+## Week 08
+
+(1. `(Aesthetics)` Give me a specific example of where you considered aesthetic design in any of your course content?) `Answer:` In honesty, I think in all the projects I have done have some type of aesthetic design to them. But one I think had the most aesthetic look and art realted thing can be something like the lab 3 we did, with hosting it on heroku and creating a web pages based off html and css. I made it so it has a moving background look with cool looking buttons to go with it. But in general every project I have done i have thought of the design look and I think that is a big part in making it. 
+
+(2. `(APIs For Extending Integration)` Identify where in your code, for Quiz 1, Quiz 2, Quiz 3, Lab 1, Lab 2, Lab 3 that either you used an API or where you could integrate an API (it could be that we added API access in the lecture example and you used the same - still identify this).) `Answer:` In terms of the project and what we can add API with, I could most things can integrate into but one I think can most is, quiz 2 with the robots and familys. We could use the classes to go hand and hand with api calling in using it do something cool and different. That would be a different process but its something you can definitely add in your code to use the api feature. 
 
 
+## Week 09
 
 
 
