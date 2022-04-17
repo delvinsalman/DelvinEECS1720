@@ -71,24 +71,30 @@
 
 (1. `(OOP elements & interactive JavaScript)` How did we interact with webpage elements using code?) `Answer:` We intracted with webpage elements by using them during lecture and learning about them. Such as maybe using a html page to show content to a link or use some type of button made in the html to do something, like when the button is clicked it will respond with hello and make a chat like feature like what I did with lab 3.
 
-(2. `(Integrating Multi-Code & External Content)` What kind of event-based interactions are possible in web-based applications?) `Answer:`
+(2. `(Integrating Multi-Code & External Content)` What kind of event-based interactions are possible in web-based applications?) `Answer:` From what I have seen and leanred threw lecture, things like the ar topic and qr scanning on the website to maybe see a model, or if its a game you can directly play via scanning it on the web based thing. How ive seen it is, an event often only requires a simple response rather than complex processing. Which can come into play when coding and trying to create these type of things. 
+<hr>
+
+## Week 10
+
+(1. `(Levels Of Location - Local To Geo)` How did we instantiate multiple geo-locations and dynamic object loading in our AR code?) `Answer:` We did the following things by, Latitude and Longitude for our gps cords to put maybe a model there and the location in which they can scan it. So in the code you would set the cords to whatever you wanted, and connected it via the model we wanted to show. An example of this can be the phase 3 part of the project we are doing, and also things like quiz 3 and what not. 
+
+(2. `(App Hosting)` What is important about constructing an app? How does this relate to its environment?) `Answer:` Well I think of the app as, making it a important feature to add when doing these type of projects since it is fitted to do these types of things. The app can alow much to happen and be easy to use, such as the app we see that are created via our phone or pc. This can realte to what we are doing by, how the app can inter play with our qr code, models, scanning, easy to use, and how when coding all this say its something that can be done in a format thats allowed, like its not like you need special things to make such as paying for somehting to create, which is why a app can be usefull. 
+<hr>
 
 
+## Week 11
 
+(1. `(Interaction Along The Virtuality-Reality Continuum)` Why are id's important for interaction?) `Answer:` How I have seen and understood ID's are, they can be known as acts as an adaptable safeguard technology for system security after traditional technologies fail and in this case can help in terms of that. So it almost is like a alarm on your code as I see it, and helps with things such as attacks, cause just because its code doesnt mean it doesnt have the same risks in things such as getting info and what not. 
 
+(2. Tell me about 2 WEB-APIs and how you could integrate them into any of your course content submissions? Give me a line or two of code.) `Answer:` In terms of 2 web API, I can say using twitter and discord for one, and you can use these for course content in so many ways. Such as making cool project that might send and receive something, and or use them to create some chat like feature since they both are chat like apps. API = DISCORD, API= TWITTER, received. 
+<hr>
 
+## Week 12
 
+(1. `(Tracking)` Briefly describe how the complexity changes between image, facial, and hand, tracking?) `Answer:` Well for each one of those just by understanding some code you would know that a image can be something easier to do then a human hand tracking. In terms of a image you can say that might be easier in terms of coding it cause there is not much there to have expect that image. In terms of human body part and them moving, I find that to be something much bigger and harder to do, you would have to understand the human motion, also things such as movement, how can you get the code to track the individual hand, and things like that. 
 
+(2. `(OOP, ECS, DOM)` What are these acronyms? How are they related?) `Answer:` These things are all realted cause they all share features, such as code, patterns, ideas, style, and whatnot. They can all be played hand and hand when coding something that can be a model related idea via AR. Since all I really know is model realted stuff to ar thats why I say model more, but maybe in the futrue I can understand more about it and have more idea. 
 
-
-
-
-
-
-
-
-
-
-
+(3. How do you register a component in A-Frame, and show me how to relate this component to data flow, API, and useage.) 
 
 
