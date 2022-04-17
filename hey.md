@@ -81,7 +81,6 @@
 (2. `(App Hosting)` What is important about constructing an app? How does this relate to its environment?) `Answer:` Well I think of the app as, making it a important feature to add when doing these type of projects since it is fitted to do these types of things. The app can alow much to happen and be easy to use, such as the app we see that are created via our phone or pc. This can realte to what we are doing by, how the app can inter play with our qr code, models, scanning, easy to use, and how when coding all this say its something that can be done in a format thats allowed, like its not like you need special things to make such as paying for somehting to create, which is why a app can be usefull. 
 <hr>
 
-
 ## Week 11
 
 (1. `(Interaction Along The Virtuality-Reality Continuum)` Why are id's important for interaction?) `Answer:` How I have seen and understood ID's are, they can be known as acts as an adaptable safeguard technology for system security after traditional technologies fail and in this case can help in terms of that. So it almost is like a alarm on your code as I see it, and helps with things such as attacks, cause just because its code doesnt mean it doesnt have the same risks in things such as getting info and what not. 
@@ -95,6 +94,7 @@
 
 (2. `(OOP, ECS, DOM)` What are these acronyms? How are they related?) `Answer:` These things are all realted cause they all share features, such as code, patterns, ideas, style, and whatnot. They can all be played hand and hand when coding something that can be a model related idea via AR. Since all I really know is model realted stuff to ar thats why I say model more, but maybe in the futrue I can understand more about it and have more idea. 
 
-(3. How do you register a component in A-Frame, and show me how to relate this component to data flow, API, and useage.) 
+(3. How do you register a component in A-Frame, and show me how to relate this component to data flow, API, and useage.) In terms of the A-Frame, you can register it in the  HTML attribute, via the dom. These things can relate to Api and what not cause there all apart of code and can be used when making something, such maybe a discord bot using api and applying a A-Frame to it to be used for a specific idea or thing. 
+<hr>
 
-
+# That's all!
